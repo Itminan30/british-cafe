@@ -1,0 +1,56 @@
+[
+  {
+      "id": 1,
+      "name": "Jamie Oliver",
+      "picture_url": "https://i.guim.co.uk/img/media/ae7e8bc70fc7b3d9329e118fc93703823cba6f5a/0_31_2835_1701/master/2835.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=8b5cf29e809872d0eaf397467b2fa9f4",
+      "years_of_experience": 25,
+      "num_recipes": 500,
+      "num_likes": 1000000,
+      "bio": "Jamie Oliver is a British chef and restaurateur known for his approachable and healthy take on food. He has written numerous cookbooks, hosted several cooking shows, and worked to promote healthier school meals in the UK."
+    },
+    {
+      "id": 2,
+      "name": "Gordon Ramsay",
+      "picture_url": "https://i.guim.co.uk/img/media/f303c77233c279008123157333ba83d1149806be/0_266_4064_2438/master/4064.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=a1f7b50c89ee651e0c89bb92a2277050",
+      "years_of_experience": 30,
+      "num_recipes": 350,
+      "num_likes": 1500000,
+      "bio": "Gordon Ramsay is a British chef, restaurateur, and television personality known for his fiery temper and high culinary standards. He has owned and operated successful restaurants, written cookbooks, and starred in several cooking shows."
+    },
+    {
+      "id": 3,
+      "name": "Nigella Lawson",
+      "picture_url": "https://api.curtisbrown.co.uk/media/81675/show/square",
+      "years_of_experience": 20,
+      "num_recipes": 250,
+      "num_likes": 500000,
+      "bio": "Nigella Lawson is a British food writer, journalist, and television personality known for her sensual and indulgent approach to cooking. She has written numerous bestselling cookbooks and hosted several cooking shows."
+    },
+    {
+      "id": 4,
+      "name": "Mary Berry",
+      "picture_url": "https://i.guim.co.uk/img/media/ebf41ef7dece6573e3bdf43c8bb81a151ab401e4/0_277_1102_661/master/1102.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=b119c1480503f72255b630caa84af153",
+      "years_of_experience": 50,
+      "num_recipes": 600,
+      "num_likes": 800000,
+      "bio": "Mary Berry is a British food writer and television presenter known for her expertise in baking. She has written over 70 cookbooks, hosted several cooking shows, and served as a judge on the hit series The Great British Bake Off."
+    },
+    {
+      "id": 5,
+      "name": "Heston Blumenthal",
+      "picture_url": "https://img.delicious.com.au/psPKo83g/w506-h506-cfill/del/2017/10/chp_export_152802977_embargoed-sun-mar-05-tv-column-masterchef-australia-guest-judge-heston-blumenth-53518-1.jpg",
+      "years_of_experience": 35,
+      "num_recipes": 200,
+      "num_likes": 300000,
+      "bio": "Heston Blumenthal is a British chef and restaurateur known for his experimental approach to food. He owns Michelin-starred restaurants and has written cookbooks, including the influential tome The Fat Duck Cookbook."
+    },
+    {
+      "id": 6,
+      "name": "Delia Smith",
+      "picture_url": "https://i.guim.co.uk/img/media/edc3f310882f2b2fac06ea9cd6c8dc55ec1e12e5/0_132_6000_3602/master/6000.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=3ed87d462d99745c66884cf7734ada59",
+      "years_of_experience": 45,
+      "num_recipes": 400,
+      "num_likes": 700000,
+      "bio": "Delia Smith is a British cook and television presenter known for her no-nonsense approach to cooking. She has written numerous bestselling cookbooks, hosted several cooking shows, and received a CBE for her services to the food industry."
+    }
+]

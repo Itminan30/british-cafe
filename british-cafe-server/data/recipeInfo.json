@@ -1,0 +1,311 @@
+[
+  {
+      "id": 1,
+      "name": "Toad in the Hole",
+      "pic_url": "https://glutenfreecuppatea.co.uk/wp-content/uploads/2020/12/gluten-free-toad-in-the-hole-recipe-featured.jpg",
+      "ingredients": [
+        "8 sausages",
+        "150g plain flour",
+        "3 eggs",
+        "300ml milk",
+        "1 tbsp vegetable oil",
+        "Salt and pepper to taste"
+      ],
+      "method": "1. Preheat oven to 200C. \n2. Place the sausages in a baking dish and drizzle with vegetable oil. Roast in the oven for 15-20 minutes, or until browned. \n3. Meanwhile, in a bowl, whisk together flour, eggs, and milk until smooth. Season with salt and pepper. \n4. Pour the batter over the sausages in the baking dish, then return to the oven. Bake for a further 30-35 minutes, or until the batter is risen and golden brown. \n5. Serve hot with gravy and vegetables.",
+      "rating": 4.3
+    },
+    {
+      "id": 2,
+      "name": "Steak and Kidney Pie",
+      "pic_url": "https://www.thespruceeats.com/thmb/Ri1CS_H1IFNcSXj9wpm087IB3rw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ultimate-steak-and-kidney-pie-recipe-435671-hero-01-c93aafae1cdd494baeeab44252bc2186.jpg",
+      "ingredients": [
+        "500g beef steak, diced",
+        "250g beef kidneys, chopped",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "500ml beef stock",
+        "2 tbsp flour",
+        "2 tbsp butter",
+        "1 sheet puff pastry",
+        "1 egg, beaten"
+      ],
+      "method": "1. Preheat oven to 180C. \n2. In a large pan, cook the beef steak and kidneys until browned. Add onions and garlic and cook for a further 5 minutes. \n3. Sprinkle flour over the mixture and stir until coated. Gradually pour in beef stock, stirring constantly, until the mixture thickens. \n4. Transfer the mixture to a pie dish. Cover with a sheet of puff pastry and brush with beaten egg. \n5. Bake in the oven for 30-35 minutes, or until the pastry is risen and golden brown. Serve hot with vegetables and gravy.",
+      "rating": 4.5
+    },
+    {
+      "id": 3,
+      "name": "Cornish Pasty",
+      "pic_url": "https://www.thespruceeats.com/thmb/CnNezwnfuTu0_YefQbjTrL_Ih2I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/traditional-cornish-pasty-recipe-435042-Hero-5b6997cbc9e77c0050b1b6e1.jpg",
+      "ingredients": [
+        "500g shortcrust pastry",
+        "200g beef steak, diced",
+        "1 onion, chopped",
+        "2 potatoes, peeled and cubed",
+        "100g swede, peeled and cubed",
+        "2 tbsp butter",
+        "1 egg, beaten",
+        "Salt and pepper to taste"
+      ],
+      "method": "1. Preheat oven to 200C. \n2. In a large bowl, mix together beef, onions, potatoes, and swede. Season with salt and pepper. \n3. Roll out the pastry on a floured surface and cut into rounds. Place a spoonful of the beef mixture in the center of each round, then fold the pastry over to form a half-moon shape. \n4. Pinch the edges of the pastry together to seal the pasties, then brush with beaten egg. \n5. Bake in the oven for 30-35 minutes, or until the pastry is golden brown and crisp. Serve hot.",
+      "rating": 4.0
+    },
+    {
+      "id": 4,
+      "name": "Bubble and Squeak",
+      "pic_url": "https://www.thespruceeats.com/thmb/P9V4o91OWii6pTQQQ3BfHjDDXK4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/traditional-bubble-and-squeak-recipe-435202-hero-01-481bc2607d2f4b5a868fdf8560eb6600.jpg",
+      "ingredients": [
+        "500g potatoes, boiled and mashed",
+        "200g cabbage, finely chopped",
+        "1 onion, chopped",
+        "50g butter",
+        "Salt and pepper to taste"
+      ],
+      "method": "1. Heat the butter in a large frying pan over medium heat. \n2. Add the onions and cook until softened, about 5 minutes. \n3. Add the mashed potatoes and chopped cabbage to the pan, stirring to combine. Season with salt and pepper. \n4. Cook for 10-15 minutes, stirring occasionally, until the bottom of the mixture is browned and crispy. \n5. Use a spatula to flip the bubble and squeak over and cook for a further 10-15 minutes on the other side, until browned and crispy. Serve hot as a side dish.",
+      "rating": 3.8
+    },
+    {
+      "id": 5,
+      "name": "Shepherd's Pie",
+      "pic_url": "https://www.thespruceeats.com/thmb/GkBotUicV8-4senVy6J_mozSBrA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/meatloaf-shepherds-pie-480689-hero-01-c22a02674ec049a09c37bc30c5f86697.jpg",
+      "ingredients": [
+        "500g beef mince",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "2 carrots, chopped",
+        "2 tbsp tomato puree",
+        "500ml beef stock",
+        "750g potatoes, peeled and cubed",
+        "100g cheddar cheese, grated",
+        "2 tbsp butter",
+        "Salt and pepper to taste"
+      ],
+      "method": "1. Preheat oven to 200C. \n2. In a large pan, cook the beef mince until browned. Add onions, garlic, and carrots and cook for a further 5 minutes. \n3. Stir in tomato puree and beef stock and bring to a simmer. Cook for 10-15 minutes, until the mixture has thickened. \n4. Meanwhile, boil the potatoes until tender. Drain and mash with butter and grated cheddar cheese. Season with salt and pepper. \n5. Transfer the beef mixture to a baking dish. Spoon the mashed potatoes on top and use a fork to spread evenly. \n6. Bake in the oven for 30-35 minutes, or until the mashed potatoes are golden brown and crispy. Serve hot.",
+      "rating": 4.6
+    },
+    {
+      "id": 6,
+      "name": "Toad in the Hole",
+      "pic_url": "https://glutenfreecuppatea.co.uk/wp-content/uploads/2020/12/gluten-free-toad-in-the-hole-recipe-featured.jpg",
+      "ingredients": [
+        "8 pork sausages",
+        "140g plain flour",
+        "2 eggs",
+        "175ml milk",
+        "2 tbsp vegetable oil",
+        "1 onion, sliced",
+        "1 tbsp Worcestershire sauce",
+        "150ml beef stock",
+        "Salt and pepper to taste"
+      ],
+      "method": "1. Preheat oven to 220C. \n2. In a large frying pan, heat the vegetable oil over medium heat. Add the sausages and onions and cook until browned, about 5 minutes. \n3. In a separate bowl, whisk together the flour, eggs, and milk until smooth. Season with salt and pepper. \n4. Pour the batter into a baking dish and add the sausages and onions. \n5. Bake in the oven for 20-25 minutes, or until the batter is golden brown and crispy. \n6. Meanwhile, make the gravy by heating the beef stock and Worcestershire sauce in a pan. Serve the Toad in the Hole hot, with the gravy poured over.",
+      "rating": 4.2
+    },
+    {
+      "id": 1,
+      "name": "Cornish Pasty",
+      "pic_url": "https://www.thespruceeats.com/thmb/CnNezwnfuTu0_YefQbjTrL_Ih2I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/traditional-cornish-pasty-recipe-435042-Hero-5b6997cbc9e77c0050b1b6e1.jpg",
+      "ingredients": [
+        "500g shortcrust pastry",
+        "300g beef skirt steak, diced",
+        "1 onion, chopped",
+        "2 potatoes, peeled and diced",
+        "150g swede, diced",
+        "2 tbsp Worcestershire sauce",
+        "Salt and pepper to taste"
+      ],
+      "method": "1. Preheat oven to 200C. \n2. In a large mixing bowl, combine the diced beef, chopped onions, diced potatoes, diced swede, and Worcestershire sauce. Season with salt and pepper. \n3. Roll out the pastry and cut into circles. \n4. Spoon the mixture onto the pastry circles and fold over, crimping the edges to seal. \n5. Place the pasties on a baking tray and brush with beaten egg. \n6. Bake in the oven for 30-35 minutes, or until golden brown and crispy. Serve hot or cold.",
+      "rating": 4.8
+    },
+    {
+      "id": 2,
+      "name": "Bangers and Mash",
+      "pic_url": "https://www.thespruceeats.com/thmb/GL5dFrJn63KkkIJVUwKUmEt75rQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/sausage-and-mash-with-onion-gravy-434904-hero-01-472f7127b51f406d9fc85a476044bdc7.jpg",
+      "ingredients": [
+        "8 pork sausages",
+        "1 kg potatoes, peeled and chopped",
+        "150ml milk",
+        "50g butter",
+        "2 tbsp vegetable oil",
+        "1 onion, sliced",
+        "2 tbsp Worcestershire sauce",
+        "Salt and pepper to taste"
+      ],
+      "method": "1. Bring a large pan of salted water to the boil. Add the chopped potatoes and cook for 15-20 minutes, or until tender. Drain and mash with the milk and butter. Season with salt and pepper. \n2. Meanwhile, heat the vegetable oil in a large frying pan over medium heat. Add the sausages and onions and cook until browned, about 5 minutes. \n3. Add the Worcestershire sauce to the pan and stir to combine. \n4. Serve the sausages and onions on top of the mashed potatoes, with extra gravy if desired. Serve hot.",
+      "rating": 4.5
+    },
+    {
+      "id": 3,
+      "name": "Bubble and Squeak",
+      "pic_url": "https://www.thespruceeats.com/thmb/P9V4o91OWii6pTQQQ3BfHjDDXK4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/traditional-bubble-and-squeak-recipe-435202-hero-01-481bc2607d2f4b5a868fdf8560eb6600.jpg",
+      "ingredients": [
+        "500g potatoes, peeled and chopped",
+        "1 onion, chopped",
+        "200g cooked cabbage, chopped",
+        "100g cooked peas",
+        "2 tbsp butter",
+        "Salt and pepper to taste"
+      ],
+      "method": "1. Boil the potatoes until tender, then mash with butter. \n2. In a large frying pan, sauté the onion until soft. Add the cabbage and peas, and cook until heated through. \n3. Add the mashed potatoes and mix everything together. Season with salt and pepper. \n4. Press the mixture down into the pan and cook over medium heat for about 10 minutes, or until the bottom is crispy. \n5. Flip the Bubble and Squeak over and cook for another 5-10 minutes, until the other side is crispy as well. Serve hot.",
+      "rating": 4.6
+    },
+    {
+      "id": 4,
+      "name": "Steak and Kidney Pie",
+      "pic_url": "https://www.thespruceeats.com/thmb/Ri1CS_H1IFNcSXj9wpm087IB3rw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ultimate-steak-and-kidney-pie-recipe-435671-hero-01-c93aafae1cdd494baeeab44252bc2186.jpg",
+      "ingredients": [
+        "500g beef skirt steak, diced",
+        "250g ox kidney, diced",
+        "1 onion, chopped",
+        "2 carrots, chopped",
+        "2 celery sticks, chopped",
+        "2 tbsp plain flour",
+        "500ml beef stock",
+        "500g shortcrust pastry",
+        "1 egg, beaten",
+        "Salt and pepper to taste"
+      ],
+      "method": "1. Preheat oven to 180C. \n2. In a large frying pan, brown the beef and kidney in a little oil. Remove and set aside. \n3. In the same pan, sauté the onion, carrots, and celery until soft. \n4. Add the flour and stir to coat. Gradually add the beef stock, stirring constantly, until the mixture thickens. \n5. Add the beef and kidney back into the pan, season with salt and pepper, and simmer for 10-15 minutes. \n6. Transfer the mixture to a pie dish. Roll out the pastry and cover the pie dish, trimming the edges. Brush with beaten egg. \n7. Bake in the oven for 30-35 minutes, or until golden brown and crispy. Serve hot.",
+      "rating": 4.4
+    },
+    {
+      "id": 5,
+      "name": "Toad in the Hole",
+      "pic_url": "https://glutenfreecuppatea.co.uk/wp-content/uploads/2020/12/gluten-free-toad-in-the-hole-recipe-featured.jpg",
+      "ingredients": [
+        "8 pork sausages",
+        "140g plain flour",
+        "2 eggs",
+        "175ml milk",
+        "100ml water",
+        "2 tbsp vegetable oil",
+        "Salt and pepper to taste"
+      ],
+      "method": "1. Preheat oven to 220C. \n2. Place the sausages in a baking dish and drizzle with oil. Bake in the oven for 10 minutes. \n3. Meanwhile, whisk together the flour, eggs, milk, water, salt, and pepper until smooth. \n4. After the sausages have baked for 10 minutes, pour the batter over them and return the dish to the oven. \n5. Bake for another 25-30 minutes, or until the batter is puffed up and golden brown. Serve hot with gravy.",
+      "rating": 4.3
+    },
+    {
+      "id": 6,
+      "name": "Bangers and Mash",
+      "pic_url": "https://www.thespruceeats.com/thmb/GL5dFrJn63KkkIJVUwKUmEt75rQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/sausage-and-mash-with-onion-gravy-434904-hero-01-472f7127b51f406d9fc85a476044bdc7.jpg",
+      "ingredients": [
+        "8 pork sausages",
+        "1kg potatoes, peeled and chopped",
+        "150ml milk",
+        "50g butter",
+        "1 onion, chopped",
+        "2 tbsp vegetable oil",
+        "Gravy (optional)",
+        "Salt and pepper to taste"
+      ],
+      "method": "1. Boil the potatoes until tender, then mash with milk and butter. Season with salt and pepper. \n2. In a frying pan, sauté the onion in oil until soft. Remove and set aside. \n3. In the same pan, cook the sausages until browned on all sides. \n4. Serve the sausages on top of the mashed potatoes, with the sautéed onions and gravy (if using) on the side. Enjoy!",
+      "rating": 4.5
+    },
+    {
+      "id": 1,
+      "name": "Sticky Toffee Pudding",
+      "pic_url": "https://www.foodandwine.com/thmb/G2hXV-KAIOFKnG6_o_wEpl71V24=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/sticky-toffee-pudding-FT-RECIPE0921-d293c6762a2f41b59bfdd5ff12fac81c.jpg",
+      "ingredients": [
+        "175g dates, pitted and chopped",
+        "175g self-raising flour",
+        "175g light brown sugar",
+        "3 eggs",
+        "100g butter, softened",
+        "1 tsp vanilla extract",
+        "150ml boiling water",
+        "150ml double cream",
+        "50g dark brown sugar"
+      ],
+      "method": "1. Preheat oven to 180C. \n2. Place the chopped dates in a bowl and cover with boiling water. Set aside for 5-10 minutes. \n3. In a separate bowl, cream together the butter and light brown sugar until light and fluffy. \n4. Beat in the eggs, one at a time, followed by the vanilla extract. \n5. Fold in the flour and chopped dates. \n6. Pour the batter into a greased baking dish and bake for 30-35 minutes, or until a toothpick inserted into the center comes out clean. \n7. While the pudding is baking, make the toffee sauce by heating the cream and dark brown sugar in a small saucepan until the sugar has dissolved and the mixture is smooth. \n8. When the pudding is done, poke holes all over it with a fork and pour the hot toffee sauce over the top. Serve hot with a dollop of whipped cream or vanilla ice cream.",
+      "rating": 4.7
+    },
+    {
+      "id": 2,
+      "name": "Sticky Toffee Pudding",
+      "pic_url": "https://www.foodandwine.com/thmb/G2hXV-KAIOFKnG6_o_wEpl71V24=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/sticky-toffee-pudding-FT-RECIPE0921-d293c6762a2f41b59bfdd5ff12fac81c.jpg",
+      "ingredients": [
+        "175g dates, pitted and chopped",
+        "175g self-raising flour",
+        "175g light brown sugar",
+        "3 eggs",
+        "100g butter, softened",
+        "1 tsp vanilla extract",
+        "150ml boiling water",
+        "150ml double cream",
+        "50g dark brown sugar"
+      ],
+      "method": "1. Preheat oven to 180C. \n2. Place the chopped dates in a bowl and cover with boiling water. Set aside for 5-10 minutes. \n3. In a separate bowl, cream together the butter and light brown sugar until light and fluffy. \n4. Beat in the eggs, one at a time, followed by the vanilla extract. \n5. Fold in the flour and chopped dates. \n6. Pour the batter into a greased baking dish and bake for 30-35 minutes, or until a toothpick inserted into the center comes out clean. \n7. While the pudding is baking, make the toffee sauce by heating the cream and dark brown sugar in a small saucepan until the sugar has dissolved and the mixture is smooth. \n8. When the pudding is done, poke holes all over it with a fork and pour the hot toffee sauce over the top. Serve hot with a dollop of whipped cream or vanilla ice cream.",
+      "rating": 4.7
+    },
+    {
+      "id": 3,
+      "name": "Fish and Chips",
+      "pic_url": "https://www.thespruceeats.com/thmb/k8Ejnb3LR7yrhwGirJEC2x6r1sg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/best-fish-and-chips-recipe-434856-Hero-5b61b89346e0fb00500f2141.jpg",
+      "ingredients": [
+        "500g white fish fillets (e.g. cod or haddock)",
+        "150g plain flour",
+        "1 tsp baking powder",
+        "1 tsp salt",
+        "150ml beer",
+        "Vegetable oil (for frying)",
+        "500g potatoes, peeled and cut into chips",
+        "Salt and vinegar (to serve)"
+      ],
+      "method": "1. Preheat oven to 220C. \n2. In a bowl, mix together the flour, baking powder, and salt. Gradually stir in the beer until the batter is smooth. \n3. Heat the oil in a deep frying pan or fryer. Dip each fish fillet in the batter, then carefully lower into the hot oil. Fry for 5-6 minutes, or until golden brown and cooked through. \n4. Meanwhile, boil the chips in salted water for 4-5 minutes until slightly softened. Drain and spread out on a baking sheet. Drizzle with oil and season with salt. Bake in the oven for 20-25 minutes, or until crispy and golden. \n5. Serve the fish and chips hot with salt and vinegar on top.",
+      "rating": 4.6
+    },
+    {
+      "id": 4,
+      "name": "Beef Wellington",
+      "pic_url": "https://www.thespruceeats.com/thmb/SouzON4_hfjhxpTlM_7AEMeVW3Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/make-a-classic-beef-wellington-easy-435726-step-14-56782aee6d0b4fc0ae7c21d05add2126.jpg",
+      "ingredients": [
+        "600g beef fillet",
+        "Salt and pepper to taste",
+        "2 tbsp vegetable oil",
+        "2 tbsp Dijon mustard",
+        "250g mushrooms, finely chopped",
+        "2 cloves garlic, minced",
+        "50g breadcrumbs",
+        "500g puff pastry",
+        "1 egg, beaten"
+      ],
+      "method": "1. Preheat oven to 200C. \n2. Season the beef fillet with salt and pepper. Heat the oil in a large frying pan and sear the beef on all sides until browned. \n3. Remove the beef from the pan and brush with Dijon mustard. \n4. In the same pan, cook the mushrooms and garlic over medium-high heat until softened. Stir in the breadcrumbs andCook the mixture for another minute or two, until the breadcrumbs are lightly browned. Set aside to cool. \n6. Roll out the puff pastry on a floured surface until it's large enough to enclose the beef. \n7. Place the cooled mushroom mixture in the centre of the pastry, then place the beef on top. \n8. Use the pastry to wrap the beef and mushrooms tightly, pressing the edges together to seal. \n9. Brush the pastry with beaten egg, then transfer the beef wellington to a baking tray. \n10. Bake for 30-40 minutes, or until the pastry is golden brown and the beef is cooked to your liking." ,
+      "rating": 4.8
+    },
+    {
+      "id": 5,
+      "name": "Cornish Pasty",
+      "pic_url": "https://www.thespruceeats.com/thmb/CnNezwnfuTu0_YefQbjTrL_Ih2I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/traditional-cornish-pasty-recipe-435042-Hero-5b6997cbc9e77c0050b1b6e1.jpg",
+      "ingredients": [
+        "500g shortcrust pastry",
+        "300g beef skirt steak, diced",
+        "1 onion, chopped",
+        "2 potatoes, peeled and diced",
+        "150g swede, diced",
+        "2 tbsp Worcestershire sauce",
+        "Salt and pepper to taste"
+      ],
+      "method": "1. Preheat oven to 200C. \n2. In a large mixing bowl, combine the diced beef, chopped onions, diced potatoes, diced swede, and Worcestershire sauce. Season with salt and pepper. \n3. Roll out the pastry and cut into circles. \n4. Spoon the mixture onto the pastry circles and fold over, crimping the edges to seal. \n5. Place the pasties on a baking tray and brush with beaten egg. \n6. Bake in the oven for 30-35 minutes, or until golden brown and crispy. Serve hot or cold.",
+      "rating": 4.8
+    },
+    {
+      "id": 6,
+      "name": "Shepherd's Pie",
+      "pic_url": "https://www.thespruceeats.com/thmb/GkBotUicV8-4senVy6J_mozSBrA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/meatloaf-shepherds-pie-480689-hero-01-c22a02674ec049a09c37bc30c5f86697.jpg",
+      "ingredients": [
+        "500g minced lamb",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "2 carrots, diced",
+        "2 tbsp tomato puree",
+        "1 tbsp Worcestershire sauce",
+        "500g potatoes, peeled and chopped",
+        "50g butter",
+        "50ml milk",
+        "Salt and pepper to taste"
+      ],
+      "method": "1. Preheat oven to 200C. \n2. In a large frying pan, cook the lamb over medium-high heat until browned. \n3. Add the onion, garlic, and carrots and cook for a further 5-10 minutes until the vegetables are softened. \n4. Stir in the tomato puree and Worcestershire sauce and cook for another 2-3 minutes. Season with salt and pepper to taste. \n5. Meanwhile, boil the potatoes until tender. Drain and mash with butter, milk, salt, and pepper. \n6. Transfer the lamb mixture to an oven-proof dish and spread the mashed potatoes on top. \n7. Bake for 25-30 minutes, or until the top is golden brown. Serve hot with vegetables.",
+      "rating": 4.2
+    }
+  ]
+
+
